@@ -12,4 +12,4 @@ Allows you to downgrade iOS apps. **The applications will have thinning disabled
 
 ## Credits
 
-Thanks to [@dlevi309](https://github.com/dlevi309) for providing the necessary information to create this tool.
+This tool is created by [AeonLucid](https://github.com/AeonLucid) & [Daniel Levi](https://github.com/dlevi309).
